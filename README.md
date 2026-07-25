@@ -6,6 +6,10 @@ references for proj
 Tan, C. (2026). *Closing the gap: Income inequality lowest since 2015.* The Straits Times.
 https://www.straitstimes.com/singapore/median-household-income-crosses-12000-mark-for-first-time-in-2025
 
+The original chart we are redesigning is the first chart in: “Closing the gap: Income inequality lowest since 2015,” from The Straits Times link above. 
+
+It is also in the zip file named "Original_visualization.png"
+
 Singapore Department of Statistics. (2025). *Key Household Income Trends.* SingStat.
 https://www.singstat.gov.sg/publication-resources/key-household-income-trends-2025
 
